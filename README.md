@@ -1,6 +1,5 @@
 # boston_housing
 
-
 # Boston Housing Price Prediction
 
 A machine learning project analyzing and predicting housing prices using the Boston Housing dataset.
@@ -34,8 +33,9 @@ source venv/bin/activate  # On Linux/Mac
 
 
 # Install required packages
-
+```python
 pip install-rrequirements.txt
+```
 
 ## Project structure
 
@@ -70,4 +70,6 @@ Using the Boston Housing dataset which contains information about different hous
 2. Install dependencies
 3. Run Jupyter notebook:
 
-""jupyter notebook sample.ipynb"""
+```python
+jupyter notebook sample.ipynb
+```
