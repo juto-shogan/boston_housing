@@ -2,16 +2,15 @@
 
 # Boston Housing Price Prediction
 
-A machine learning project analyzing and predicting housing prices using the Boston Housing dataset.
+A machine learning project analysing and predicting housing prices using the Boston Housing dataset.
 
 ## Overview
 
-This project implements various regression models including:
+This project implements various regression models, including:
 
 - Linear Regression
 - Ridge Regression
-- Polynomial Regression
-  with cross-validation and feature engineering.
+- Polynomial Regression with cross-validation and feature engineering.
 
 ## Requirements
 
@@ -34,7 +33,7 @@ source venv/bin/activate  # On Linux/Mac
 
 # Install required packages
 ```python
-pip install-rrequirements.txt
+pip install -r requirements.txt
 ```
 
 ## Project structure
@@ -57,7 +56,7 @@ pip install-rrequirements.txt
 
 ## Dataset
 
-Using the Boston Housing dataset which contains information about different houses in Boston. The features include:
+Using the Boston Housing dataset, which contains information about different houses in Boston. The features include:
 
 * CRIM: Crime rate
 * ZN: Proportion of residential land
@@ -66,7 +65,7 @@ Using the Boston Housing dataset which contains information about different hous
 
 ## Usage
 
-1. Clone repository
+1. Clonethe  repository
 2. Install dependencies
 3. Run Jupyter notebook:
 
