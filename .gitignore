@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# IDE specific files (e.g., for VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Test coverage
+.coverage
+.pytest_cache/
+
+# Others
+*.sqlite3
+*.log
